@@ -8,6 +8,10 @@ body {
   text-align: center;
   margin: 10px;
   background-color: #eee;
+  width: 100%;
+  height: 100vh;
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
 
 .title {
@@ -31,4 +35,9 @@ body {
 .QuranAudio {
   margin: 10px;
   box-shadow: 5px 5px 10px #ddd;
+}
+
+.copy {
+  position: relative;
+  top: 60%;
 }
