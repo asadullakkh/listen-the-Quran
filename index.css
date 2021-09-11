@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  margin: 10px;
+  background-color: #eee;
+}
+
+.title {
+  margin: 10px;
+}
+
+.description {
+  margin: 10px;
+}
+
+.QuranOrder {
+  margin: 10px;
+  padding: 10px;
+  font-size: 18px;
+  box-shadow: 5px 5px 10px #ddd;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  outline: none;
+}
+
+.QuranAudio {
+  margin: 10px;
+  box-shadow: 5px 5px 10px #ddd;
+}
